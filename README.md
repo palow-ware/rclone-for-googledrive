@@ -10,6 +10,6 @@ or even getting it to start,
 so you have to use a workaround
 and i found rclone and yeah
 
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
 also saw that you can't use github for personal storage even though you can still make stuff like this so that's why it's this sort of workaround

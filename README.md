@@ -1,5 +1,5 @@
 # rclone for google drive
-just setting up rclone for uploading
+just setting up rclone – which needs a github repository page to work – for uploading
 my personal files in google drive
 
 since YOU CAN'T just upload a large folder (it's only 30 GB) into drive

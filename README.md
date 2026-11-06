@@ -1,2 +1,10 @@
-# palow.ware-googledrive
-rclone thing
+# rclone for google drive
+just setting up rclone for uploading
+my personal files in google drive
+
+since YOU CAN'T just upload a large folder (it's 30 GB) into drive
+without having any problems, maintaining a regular upload velocity 
+or even getting it to start,
+
+so you have to use a workaround
+and i found rclone and yeah
